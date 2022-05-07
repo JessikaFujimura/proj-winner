@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/proj-winner/static/css/main.23e642f9.css",
+    "main.js": "/proj-winner/static/js/main.dc211c58.js",
+    "static/media/logo-megasena.png": "/proj-winner/static/media/logo-megasena.5d9053c0fac410da6c52.png",
+    "static/media/logo-lotomania.png": "/proj-winner/static/media/logo-lotomania.9f2f8da61c1329e722a7.png",
+    "static/media/logo-dupla-sena.png": "/proj-winner/static/media/logo-dupla-sena.0db32e8ec3e173e7de53.png",
+    "static/media/logo-quina.png": "/proj-winner/static/media/logo-quina.9585dcf744b8a2699d63.png",
+    "index.html": "/proj-winner/index.html",
+    "main.23e642f9.css.map": "/proj-winner/static/css/main.23e642f9.css.map",
+    "main.dc211c58.js.map": "/proj-winner/static/js/main.dc211c58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23e642f9.css",
+    "static/js/main.dc211c58.js"
+  ]
+}
