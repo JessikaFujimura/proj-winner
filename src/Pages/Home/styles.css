@@ -1,0 +1,17 @@
+.home {
+  position: absolute;
+  right: 0;
+  width: 100vw;
+}
+
+.option {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.titulo {
+  margin: 1rem 0;
+  font-weight: lighter;
+}

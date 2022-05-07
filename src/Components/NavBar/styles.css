@@ -1,0 +1,58 @@
+
+.header {
+    background-color: rgb(114, 114, 216);
+    height: 10vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+
+  .logo-winner-nav {
+    height: 10vh;
+    }
+
+  .board-logo {
+    height: 10vh;
+    width: 16vw;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+  }
+
+  .nav-link {
+    color: white;
+  }
+
+  .nav-link:hover {
+    color: #1ae204;
+    font-weight: bold;
+  }
+  
+  .search {
+    position: absolute;
+    right: 0;
+    margin-right: 1rem;
+  }
+
+  @media screen and (max-width: 48rem) {
+    .header {
+      display: block;
+      height: 40vh;
+    }
+    .board-logo {
+      width: 30vw;
+    }
+    .search {
+      width: calc(100vw - 40vw);
+      position: absolute;
+      top: 2vh;
+      margin-right: .1rem;
+    }
+    .nav {
+      display: flex;
+      flex-direction: column;
+    }
+  }
