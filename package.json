@@ -2,7 +2,7 @@
   "name": "proj-winner",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jessikafujimura.github.io/",
+  "homepage": "https://jessikafujimura.github.io/proj-winner/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
@@ -19,7 +19,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "yarn run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
