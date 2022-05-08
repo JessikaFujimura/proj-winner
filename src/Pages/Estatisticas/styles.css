@@ -1,0 +1,9 @@
+.column {
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 25vh;
+}
+.container-fluid {
+    width: 100vw;
+    height: 80vh;
+}

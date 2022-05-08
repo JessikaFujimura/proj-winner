@@ -1,0 +1,48 @@
+
+  .mega-sena-true{
+    background-color: #00A759;
+    color: white;
+  }
+  
+  .quina-true {
+    background-color: #37287F;
+    color: white;
+  }
+  
+  .dupla-sena-true {
+      background-color: #a61325;
+      color: white;
+  }
+  
+  .lotofacil-true {
+      background-color: #9F3393;
+      color: white;
+  }
+  
+  .lotomania-true {
+      background-color: #E1753B;
+      color: white;
+  }
+  
+  .board-ball {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .button {
+    border-radius: 50%;
+    width: 2.5rem;
+    height: 2.5rem;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: white 0px 0px 13px;
+    margin: .4rem .2rem ;
+    cursor: pointer;
+  }
+  .button:hover {
+    font-size: 1.2em;
+  }

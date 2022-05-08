@@ -47,6 +47,7 @@ const Home = () => {
   return (
     <section className='home'>
       <h1 className='titulo'>Resultados dos jogos</h1>
+
         <div className='option'>
           {data.map((i) => (
             <Card key={i.contest} image={i.image} prize={i.prize} style={i.style} result={i.result} contest={i.contest}/>

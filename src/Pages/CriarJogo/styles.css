@@ -1,0 +1,30 @@
+.mega-sena{
+    color: #00A759;
+  }
+  .quina {
+    color: #37287F;
+  }
+  
+  .dupla-sena {
+      color: #a61325;
+  }
+  
+  .lotofacil {
+      color: #9F3393;
+  }
+  
+  .lotomania {
+    color: #E1753B;
+  }
+
+  .title{ 
+      text-transform: uppercase;
+      font-weight: bold;
+      font-size: 2.5em;
+  }
+
+  .list-num {
+    padding: 0 1rem 1rem;
+    justify-content: center;
+  }
+  

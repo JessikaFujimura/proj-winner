@@ -22,6 +22,7 @@
 
 .list > li {
   padding: .8rem 0;
+  text-decoration: none;
 }
 
 .list > li:hover{
@@ -29,3 +30,15 @@
   color: whitesmoke;
   font-weight: bold;
 }
+ a {
+   text-decoration: none;
+   color: black;
+ }
+
+ a:hover{
+   text-decoration: none;
+ }
+
+ a:active {
+   color: black;
+ }

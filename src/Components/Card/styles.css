@@ -18,25 +18,6 @@
     background-color: #DFAE95;
 }
 
-.mega-sena-secondary{
-  background-color: #00A759;
-}
-
-.quina-secondary {
-  background-color: #37287F;
-}
-
-.dupla-sena-secondary {
-    background-color: #a61325;
-}
-
-.lotofacil-secondary {
-    background-color: #9F3393;
-}
-
-.lotomania-secondary {
-    background-color: #E1753B;
-}
 
 .card {
   width: 20rem;
@@ -46,7 +27,6 @@
   box-sizing: border-box;
   display: flex;
   align-items: center;
-  cursor: pointer;
   padding: .3rem .5rem;
 }
 
@@ -56,24 +36,3 @@
     margin: .3rem 0;
   }
 
-.board-ball {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
-.ball {
-  border-radius: 50%;
-  width: 2.5rem;
-  height: 2.5rem;
-  box-sizing: border-box;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  box-shadow: white 0px 0px 13px;
-  margin: .4rem .2rem .8rem;
-}
-.ball > span {
-  font-size: 0.8em;
-}
